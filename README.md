@@ -12,5 +12,5 @@
   
 ## ENHYPEN メンバー
 ![image](https://github.com/Moemi0625/enhypen-OfficialSite/assets/86924333/09178c18-5b81-426b-a97c-919c73223ba7)
-- [ENHYPEN OFFICIAL SITE](https://beliftlab.com/artist/profile/ENHYPEN?lang=en)
+[ENHYPEN OFFICIAL SITE](https://beliftlab.com/artist/profile/ENHYPEN?lang=en)
 
