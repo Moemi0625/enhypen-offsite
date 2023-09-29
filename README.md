@@ -1,7 +1,6 @@
 # EN-OffSite
 推しのK-pop男性グループアーティスト「ENHYPEN」のWEBサイトを公式サイトを参考に制作してみました(笑)
-ENHYPEN Japan Official Site: https://enhypen-jp.weverse.io/
-
+- (https://ja.wikipedia.org/wiki/ENHYPEN)
 ## 使用言語
 - HTML (index, member, discography, history)
 - CSS (cssフォルダ)
