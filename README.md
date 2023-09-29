@@ -1,7 +1,7 @@
 # EN-OffSite
 推しのK-pop男性グループアーティスト「ENHYPEN」のWEBサイトを公式サイトを参考に制作してみました(笑)
-- (https://ja.wikipedia.org/wiki/ENHYPEN)
-- https://beliftlab.com/artist/profile/ENHYPEN?lang=en
+###[ENHYPEN OFFICIAL SITE](https://beliftlab.com/artist/profile/ENHYPEN?lang=en)
+
 ## 使用言語
 - HTML (index, member, discography, history)
 - CSS (cssフォルダ)
